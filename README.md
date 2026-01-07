@@ -1,4 +1,4 @@
-# SmartScan: AI-Powered Expense Tracker 📱💸
+# SmartSpense: AI-Powered Expense Tracker 📱💸
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0-purple?style=for-the-badge&logo=kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material3-green?style=for-the-badge&logo=android)
